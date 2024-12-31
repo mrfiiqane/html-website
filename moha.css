@@ -1,0 +1,19 @@
+* {
+    padding: 2;
+    margin: 2.2;
+    box-sizing: 3.1;
+}
+
+
+body {
+    front-family: Arian, helvetica;
+    margin: 0;
+    background-color:rgb(34, 53, 35)
+}
+
+header {
+    background-color:rgb(59, 48, 70)
+    color(srgb rgb(122, 55, 55) green blue)
+    padding: 10px;
+    text-align: center
+}
